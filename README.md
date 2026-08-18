@@ -15,7 +15,7 @@ This is **Part 5** of the series — it shows how to deploy the project on VPS u
 | 2 | Multi-Agent + Memory + MCP | [AI-Travel-Planning-App-using-LangGraph-and-MCP](https://github.com/codewithaarohi/AI-Travel-Planning-App-using-LangGraph-and-MCP) | [youtu.be/DjMX7o2EeV0](https://youtu.be/DjMX7o2EeV0) |
 | 3 | Supervisor + Guardrails + HITL | [Supervisor Agent + Guardrails + HITL ](https://github.com/codewithaarohi/Multi_agent_system_part_3) |[youtu.be/ZULVHkPa4xk](https://youtu.be/ZULVHkPa4xk) |
 | 4 | Deploy a Multi-Agent AI App on VPS | Deploy a Multi-Agent AI App on VPS from Scratch Part 4|[youtu.be/84LbJElhfL4](https://youtu.be/84LbJElhfL4) |
-| 5 | Deploy a Multi-Agent AI App on VPS using Docker | [Deploy a Multi-Agent AI App on VPS from Scratch Part 4](https://github.com/codewithaarohi/Multi_agent_system_part_5)|[youtu.be/XsJxUBjxIqU](https://youtu.be/XsJxUBjxIqU) |
+| 5 | Deploy a Multi-Agent AI App on VPS using Docker | [Deploy a Multi-Agent AI App on VPS using Docker ](https://github.com/codewithaarohi/Multi_agent_system_part_5)|[youtu.be/XsJxUBjxIqU](https://youtu.be/XsJxUBjxIqU) |
 
 ---
 
