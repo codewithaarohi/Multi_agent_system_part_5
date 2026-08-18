@@ -6,14 +6,15 @@ three **MCP servers** (Tavily, AviationStack, OpenWeatherMap). The draft itinera
 **human approval** before the final plan is produced, and conversation state is checkpointed in
 **PostgreSQL** so a thread can be resumed.
 
-This is **Part 3** of the series — it adds the Supervisor Agent, input Guardrails, Human-in-the-Loop
-approval, and Docker packaging on top of Parts 1 and 2.
+This is **Part 5** of the series — it shows how to deploy the project on VPS using Docker
+
 
 | Part | Focus | Repo | Video |
 |---|---|---|---|
 | 1 | Multi-Agent + Memory + APIs | [AI-Travel-Planning-System-using-LangGraph](https://github.com/codewithaarohi/AI-Travel-Planning-System-using-LangGraph) | [youtu.be/ctHby5vhDqg](https://youtu.be/ctHby5vhDqg) |
 | 2 | Multi-Agent + Memory + MCP | [AI-Travel-Planning-App-using-LangGraph-and-MCP](https://github.com/codewithaarohi/AI-Travel-Planning-App-using-LangGraph-and-MCP) | [youtu.be/DjMX7o2EeV0](https://youtu.be/DjMX7o2EeV0) |
-| 3 | Supervisor + Guardrails + HITL | this repo | — |
+| 3 | Supervisor + Guardrails + HITL | [Supervisor Agent + Guardrails + HITL ](https://github.com/codewithaarohi/Multi_agent_system_part_3) |[youtu.be/ZULVHkPa4xk](https://youtu.be/ZULVHkPa4xk) |
+| 4 | Deploy a Multi-Agent AI App on VPS | [Deploy a Multi-Agent AI App on VPS from Scratch Part 4]|[youtu.be/84LbJElhfL4](https://youtu.be/84LbJElhfL4) |
 
 ---
 
